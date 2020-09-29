@@ -1,5 +1,41 @@
 body {
+  background-image: url('https://cdn.vox-cdn.com/thumbor/nQiC9CNQq3CfKp8d9UKUPHgjWZM=/0x0:2560x1600/1400x1050/filters:focal(1662x443:2070x851):format(jpeg)/cdn.vox-cdn.com/uploads/chorus_image/image/54121335/smurfscover.0.jpg');
   margin: 0;
-  padding: 0;
+  padding: 0px;
   font-family: sans-serif;
+}
+
+.button {
+  color: black;
+  background-color: skyblue;
+}
+
+h1 {
+  color: lightblue;
+  background-color: rgb(255, 251, 0);
+  margin-left: 40%;
+  margin-right: 40%;
+  border-radius: 30px;
+}
+
+h2 {
+  color: red;
+}
+
+form {
+  background-color: skyblue;
+  margin-left: 30%;
+  margin-right: 30%;
+  align-items: center;
+}
+
+div {
+  color: rgb(100, 177, 207);
+  background-color: rgb(255, 255, 255, .3);
+  margin-left: 40px;
+  margin-right: 40px;
+}
+
+input {
+  align-items: baseline;
 }
